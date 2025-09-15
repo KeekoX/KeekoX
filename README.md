@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KeekoX
+- 👋 Hi, I’m @SergioLustres
 - 👀 I’m interested in "Programming"
 - 🌱 I’m currently learning "C#"
 - 💞️ I’m looking to collaborate on "Projects that make me learn more about Programming"
